@@ -1,0 +1,30 @@
+.wikiki{ background:#fff; width:700px; color:#000; padding:15px;}
+.wikiki br{ display:none; }
+.wikiki, .wikiki *{ box-sizing:border-box;}
+
+.wikiki_1screen{ margin-top:10px;}
+.wikiki_nomprenom1{ border-bottom:1px solid #c8c8c8; padding-bottom:5px; font-family:sans serif; display:block; margin:10px 0px; font-size:23px; }
+
+.wikiki-flex{ display:flex; justify-content:space-between;  margin:10px 0; font-family:Arial; }
+.wikiki_zonetexte{ width:64%;  }
+.wikiki_infos{ width:34%; font-size:12px; float:right; border:1px solid #c7c9cf; padding:5px; background: #F9F9F9;}
+.wikiki .wikiki_texte br{
+  content: \" \";
+  display:  inline-block;
+  line-height:11px !important; }
+
+.wikiki_titre{ font-family:sans serif; font-size:18px;
+   padding-bottom:5px; margin:8px 0;border-bottom:1px solid #8e9cc4; }
+
+
+.wiki_nomprenom2{ background:#4C6099; text-align:center;
+   padding:5px; color:white; font-weight:600; }
+.wiki_avatar{ margin:7px 0 5px; height:200px; width:100%; object-fit:cover;  }
+.wiki_legend{ font-size:10px; width:100%; display:block; text-align:center; }
+
+.wiki_sstitre{ background:#4c6099; text-align:center;
+   color:#fff; font-weight:600;  margin:5px 0; }
+
+.wiki_textblabla{ display:flex;}
+.wiki_textblabla span{ font-weight:600; width:30%; }
+.wiki_textblabla div{ width:67%; margin-left:10px;  }
